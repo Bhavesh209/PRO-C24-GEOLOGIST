@@ -1,7 +1,7 @@
 class Iron {
     constructor(x, y, width, height) {
         var options = {
-            restitution: 0.8,
+            restitution: 5,
             density:30,
             friction:3
         }

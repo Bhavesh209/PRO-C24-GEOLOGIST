@@ -48,6 +48,6 @@ function draw() {
   stone.display();
   
 
-
+hammer.restitution:5;
 
 }

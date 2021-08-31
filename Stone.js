@@ -1,7 +1,7 @@
 class Stone {
     constructor(x, y, width, height) {
         var options = {
-            restitution: 5,
+            restitution: 0.8,
             density:12,
             friction:0.9
         }
